@@ -21,3 +21,7 @@ where:
 - $v$ = $\frac{\mu}{\varrho}$ is the kinematic viscosity, 
 - $\mu$ is the dynamic viscosity, and 
 - $\rho$ is the density.
+
+---
+
+Anusio Correia e Henrique Santos
