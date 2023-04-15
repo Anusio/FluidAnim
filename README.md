@@ -11,10 +11,7 @@ https://thecodingtrain.com/challenges/132-fluid-simulation
 
 Navier-stokes are partial differential equations that describe the motion of viscous fluid substances, their simplified equation is defined as:
 
-\begin{equation}
-    \label{eq:navierstrokes}
-    \frac{\partial u}{\partial t} + u \cdot \nabla u = g - \frac{1}{\rho} \nabla p + v \nabla ^2 u
-\end{equation}
+$\frac{\partial u}{\partial t} + u \cdot \nabla u = g - \frac{1}{\rho} \nabla p + v \nabla ^2 u$
 
 where:
 
